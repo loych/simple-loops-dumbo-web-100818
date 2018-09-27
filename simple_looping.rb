@@ -13,6 +13,7 @@ def loop_iterator(number_of_times)
   puts phrase
   
 end
+loop_iterator(number_of_times)
 
 def times_iterator(number_of_times)
   # code your solution here using the "times" keyword
@@ -21,6 +22,7 @@ def times_iterator(number_of_times)
   puts phrase
   
 end
+times_iterator(number_of_times)
 
 def while_iterator(number_of_times)
   # code your solution here using the "while" keyword
